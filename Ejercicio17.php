@@ -5,3 +5,6 @@ registrar el tiempo empleado en cada recorrido, al final del
 proceso el algoritmo debería mostrar el promedio de los tiempos
 empleados. También necesita saber cuántas veces su tiempo fue
 menor a valor dado y cuál fue su mejor tiempo realizado. */
+
+
+el olol de tu permufe
